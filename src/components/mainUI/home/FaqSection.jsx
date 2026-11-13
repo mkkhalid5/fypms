@@ -3,7 +3,7 @@ import React from 'react';
 const FaqSection = () => {
     return (
         <div>
-            this is faq section
+           this is our faq Page
         </div>
     );
 };
